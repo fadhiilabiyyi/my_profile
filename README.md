@@ -1,16 +1,37 @@
-# my_profile
+# My Profile (Mobile App)
 
-A new Flutter project.
+Sebuah aplikasi kartu nama yang dikembangkan dengan Framework Flutter.
 
-## Getting Started
+## Instalasi
 
-This project is a starting point for a Flutter application.
+Jalankan code ini pada command prompt yang ter-_install_ pada perangkat komputer masing-masin.
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/fadhiilabiyyi/my_profile.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## MenJalankan Aplikasi
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Setelah Anda berhasil melakukan proses instalasi, langkah selanjutnya adalah menjalankan _Emulator_.
+
+![Memilih Emulator yang akan digunakan](/images/pilih_emulator.png "Menjalankan Emulator")
+
+![Emulator yang siap digunakan](/images/emulator.png "Emulator")
+
+Setelah itu, _Run_ aplikasi.
+
+![Proses Debugging Aplikasi](/images/jalankan_aplikasi.png "Jalankan Aplikasi")
+
+Terakhir, _Emulator_ akan menjalankan Aplikasi.
+
+![Aplikasi yang siap digunakan](/images/aplikasi_berjalan.png "Aplikasi berjalan")
+
+## Kontak Saya
+
+Fadhiil Abiyyi Tamsil
+
+- Instagram : [@fadhiilabiyyi](https://instagram.com/fadhiilabiyyi)
+- Twitter : [@fadhiilabiyyi](https://twitter.com/fadhiilabiyyi)
+- Github : [@fadhiilabiyyi](https://github.com/fadhiilabiyyi)
+
+Link Proyek : [https://github.com/fadhiilabiyyi/my_profile.git](https://github.com/fadhiilabiyyi/my_profile.git)
